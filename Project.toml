@@ -1,0 +1,4 @@
+name = "MultilabelSVM"
+uuid = "a7c1b875-7ef9-4cef-ba90-3a5bee68836e"
+authors = ["Sebastian Borquez <sebastian.borquez.g@gmail.com>"]
+version = "0.1.0"
